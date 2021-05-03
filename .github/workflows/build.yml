@@ -40,4 +40,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/imagenGerardo:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/imagengerardo:latest
